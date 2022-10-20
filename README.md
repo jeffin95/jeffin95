@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jeffin95
-- 👀 I’m interested in Automobile
+- 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on python coding
 - 📫 How to reach me jeffinthomas95@gmail.com
